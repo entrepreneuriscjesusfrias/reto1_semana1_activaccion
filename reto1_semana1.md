@@ -64,3 +64,60 @@ Una nube híbrida es un entorno informático que combina una nube pública y una
 ## Principales ventajas de la informática en la nube
 
 La informática en la nube supone un gran cambio respecto a la forma tradicional en la que las empresas veían los recursos de TI. Estos son los siete motivos habituales por los que las organizaciones están recurriendo a los servicios de informática en la nube:
+
+   ## Costo
+
+La informática en la nube elimina la inversión de capital que supone la adquisición de hardware y software, y la configuración y ejecución de centros de datos locales (bastidores de servidores, suministro eléctrico ininterrumpido para alimentación y refrigeración y expertos en TI para administrar la infraestructura). Se multiplica rápidamente.
+
+
+   ## Escala global
+
+Entre las ventajas de los servicios informáticos en la nube, se incluye la capacidad de escalar los recursos de forma elástica. En términos de nube, esto significa ofrecer la cantidad adecuada de recursos de TI (por ejemplo, mayor o menor capacidad de proceso, almacenamiento y ancho de banda) en el momento justo en el que se necesitan y desde la ubicación geográfica adecuada.
+
+
+   ## Rendimiento
+
+Los mayores servicios informáticos en la nube se ejecutan en una red mundial de centros de datos seguros, que se actualizan periódicamente con el hardware más rápido y eficiente de última generación. Esto aporta varias ventajas en comparación con un único centro de datos corporativo, entre las que se incluyen una latencia de red menor para las aplicaciones y mayores economías de escala.
+
+
+   ## Seguridad
+
+Muchos proveedores de nube ofrecen un conjunto completo de directivas, tecnologías y controles que refuerzan la situación general de seguridad, ayudando a proteger los datos, las aplicaciones y la infraestructura frente a posibles amenazas.
+
+
+   ## Velocidad
+
+La mayoría de los servicios en la nube se proporcionan como autoservicio y a petición, de forma que incluso cantidades enormes de recursos informáticos se pueden aprovisionar en cuestión de minutos, normalmente con solo unos clics del mouse, lo que aporta a las empresas una gran flexibilidad y la relajación de no tener que preocuparse por planear la capacidad.
+
+
+   ## Productividad
+
+Los centros de datos locales suelen necesitar una cantidad importante de bastidores y apilamiento, lo que supone configuración de hardware, aplicación de revisiones de software y otras tareas de administración de TI que resultan tediosas y requieren mucho tiempo. La informática en la nube elimina la necesidad de muchas de estas tareas, de forma que los equipos de TI pueden dedicar su tiempo a lograr objetivos más importantes para su negocio.
+
+
+   ## Confiabilidad
+
+La informática en la nube facilita y abarata la creación de copias de seguridad de los datos, la recuperación ante desastres y la continuidad empresarial, ya que los datos se pueden reflejar en varios sitios redundantes en la red del proveedor de servicios en la nube.
+
+## Usos de la informática en la nube
+
+Estos son algunos ejemplos de lo que se puede conseguir hoy con los servicios en la nube de un proveedor de estos servicios:
+
+   ## Almacenar datos, crear copias de seguridad de los mismos y recuperarlos
+
+Proteja los datos con más rentabilidad y a escala masiva gracias a la transferencia de datos a través de Internet a un sistema de almacenamiento en la nube remoto al que se puede acceder desde cualquier ubicación y dispositivo.
+
+
+   ## Hacer streaming de audio y vídeo
+
+Conecte con su audiencia en cualquier lugar, en cualquier momento y en cualquier dispositivo con audio y vídeo de alta definición y distribución global.
+
+
+   ## Analizar datos
+
+Unifique sus datos entre equipos, divisiones y ubicaciones en la nube. Después use los servicios en la nube, como el aprendizaje automático y la inteligencia artificial, para descubrir información detallada a fin de adoptar decisiones más informadas.
+
+
+   ## Probar y crear aplicaciones
+
+Reduzca el costo y el tiempo que conlleva el desarrollo de aplicaciones mediante el uso de infraestructuras en la nube que se puedan escalar o reducir verticalmente con facilidad.
