@@ -60,3 +60,7 @@ Una nube privada consta de recursos informáticos que determinados usuarios de u
 ## Nube híbrida	
 
 Una nube híbrida es un entorno informático que combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
+
+## Principales ventajas de la informática en la nube
+
+La informática en la nube supone un gran cambio respecto a la forma tradicional en la que las empresas veían los recursos de TI. Estos son los siete motivos habituales por los que las organizaciones están recurriendo a los servicios de informática en la nube:
